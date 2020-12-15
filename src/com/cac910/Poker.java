@@ -1,4 +1,4 @@
-package myproject;
+package com.cac910;
 
 public class Poker {
 	public static void main(String[] args) {
